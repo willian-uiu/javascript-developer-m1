@@ -1,5 +1,5 @@
 
-const entradas = [2000, 250];
+const entradas = [5500, 250];
 let i = 0;
 
 function gets() {
